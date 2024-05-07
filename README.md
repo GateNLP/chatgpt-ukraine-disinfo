@@ -33,6 +33,10 @@ This subset is derived from the [ClaimReview markups feed](https://www.datacommo
 
 ## Additional Data and Statistics
 
+### `annotation_instructions.md`
+
+Instructions provided to human annotators for the human-AI claim classification task, and the classification form.
+
 ### `additional_data/topic_list.csv`
 
 Complete list of topics extracted from the ClaimReview data.
@@ -41,6 +45,6 @@ Complete list of topics extracted from the ClaimReview data.
 
 The mean and standard deviation of [LIWC-22](https://www.liwc.app/) statistics for each of the three datasets. This can be used to compare this data with the LIWC-22 statistics of other datasets, for example those provided in the [_LIWC-22 Descriptive Statistics and Norms_](https://www.liwc.app/help/psychometrics-manuals) spreadsheet.
 
-### `additional_datata/zerogpt-full-labels.csv`
+### `additional_data/zerogpt-full-labels.csv`
 
 Frequency of claims assigned to the 9 ZeroGPT labels and their assingments to a boolean label.
