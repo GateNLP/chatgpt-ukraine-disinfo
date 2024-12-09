@@ -1,4 +1,6 @@
-# Lying Blindly: Bypassing ChatGPT's Safeguards to Generate Hard-to-Detect Disinformation Claims at Scale
+# Lying Blindly: Bypassing ChatGPT's Safeguards to Generate Hard-to-Detect Disinformation Claims
+
+This repository contains code and public data for the paper [_Lying Blindly: Bypassing ChatGPT's Safeguards to Generate Hard-to-Detect Disinformation Claims_](https://arxiv.org/abs/2402.08467).
 
 ## Experiment Code
 
@@ -23,7 +25,7 @@ Fine-tune and evaluate the RoBERTa model following [Uchendu et al. (2020)](https
 
 ### ChatGPT-Generated Data
 
-The ChatGPT-generated data is available upon request. To use with the experiment code, place in the `data/` directory.
+The ChatGPT-generated data is available upon request through [this Zenodo repository](https://zenodo.org/records/10716080). To use with the experiment code, place in the `data/` directory.
 
 ### `data/claimreview.csv`
 
